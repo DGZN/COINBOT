@@ -12,7 +12,7 @@ export default {
   'data': [
     {
       'id': 1,
-      'name': 'Noelia O\'Kon',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'asperiores',
       'email': 'otho.smitham@example.com',
       'birthdate': '1978-06-28 00:00:00',
@@ -38,89 +38,8 @@ export default {
       }
     },
     {
-      'id': 2,
-      'name': 'Mr. Enid Von PhD',
-      'nickname': 'alias',
-      'email': 'pollich.cecilia@example.com',
-      'birthdate': '1990-09-18 00:00:00',
-      'gender': 'M',
-      'salary': '35978.00',
-      'group_id': 4,
-      'created_at': '2017-01-01 07:21:10',
-      'updated_at': '2017-01-01 07:21:10',
-      'age': 26,
-      'group': {
-        'id': 4,
-        'name': 'Sup',
-        'description': 'Supervisors'
-      },
-      'address': {
-        'id': 2,
-        'user_id': 2,
-        'line1': '59732 Iva Spur Suite 468\nEast Hortenseton, VA 70087',
-        'line2': 'Cayman Islands',
-        'zipcode': '41967',
-        'mobile': '1-913-407-7558x503',
-        'fax': '(388)906-8002'
-      }
-    },
-    {
-      'id': 3,
-      'name': 'Colton Koch',
-      'nickname': 'id',
-      'email': 'little.myrna@example.net',
-      'birthdate': '1968-10-29 00:00:00',
-      'gender': 'F',
-      'salary': '26278.00',
-      'group_id': 3,
-      'created_at': '2017-01-01 07:21:10',
-      'updated_at': '2017-01-01 07:21:10',
-      'age': 48,
-      'group': {
-        'id': 3,
-        'name': 'Mgr',
-        'description': 'Managers'
-      },
-      'address': {
-        'id': 3,
-        'user_id': 3,
-        'line1': '539 Conn Locks Suite 801\nTobinfort, IL 37047-5508',
-        'line2': 'Antigua and Barbuda',
-        'zipcode': '51722-4502',
-        'mobile': '557.845.1830x844',
-        'fax': '1-831-304-7444x73027'
-      }
-    },
-    {
-      'id': 4,
-      'name': 'Gregory Vandervort',
-      'nickname': 'vel',
-      'email': 'dock47@example.org',
-      'birthdate': '1989-12-12 00:00:00',
-      'gender': 'M',
-      'salary': '25537.00',
-      'group_id': 3,
-      'created_at': '2017-01-01 07:21:10',
-      'updated_at': '2017-01-01 07:21:10',
-      'age': 27,
-      'group': {
-        'id': 3,
-        'name': 'Mgr',
-        'description': 'Managers'
-      },
-      'address': {
-        'id': 4,
-        'user_id': 4,
-        'line1': '916 Rosemary Forge\nKreigerton, MT 24207',
-        'line2': 'Uganda',
-        'zipcode': '67639-6707',
-        'mobile': '766.431.9121',
-        'fax': '(154)336-3674x08451'
-      }
-    },
-    {
       'id': 5,
-      'name': 'Miss Rahsaan Heaney IV',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'qui',
       'email': 'ugrady@example.org',
       'birthdate': '1995-11-27 00:00:00',
@@ -147,7 +66,7 @@ export default {
     },
     {
       'id': 6,
-      'name': 'Ms. Crystel Zemlak IV',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'reiciendis',
       'email': 'amari.rau@example.com',
       'birthdate': '1968-09-12 00:00:00',
@@ -174,7 +93,7 @@ export default {
     },
     {
       'id': 7,
-      'name': 'Nona McDermott',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'quaerat',
       'email': 'adrien.baumbach@example.org',
       'birthdate': '1985-10-01 00:00:00',
@@ -201,7 +120,7 @@ export default {
     },
     {
       'id': 8,
-      'name': 'Miss Genoveva Murazik V',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'rerum',
       'email': 'ohettinger@example.net',
       'birthdate': '1988-10-19 00:00:00',
@@ -228,7 +147,7 @@ export default {
     },
     {
       'id': 9,
-      'name': 'Beulah Huels',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'non',
       'email': 'stefan99@example.com',
       'birthdate': '1963-09-04 00:00:00',
@@ -255,7 +174,7 @@ export default {
     },
     {
       'id': 10,
-      'name': 'Zoe Klein',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'ex',
       'email': 'ejacobson@example.org',
       'birthdate': '1990-04-19 00:00:00',
@@ -282,7 +201,7 @@ export default {
     },
     {
       'id': 11,
-      'name': 'Vickie Kiehn',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'assumenda',
       'email': 'ayost@example.com',
       'birthdate': '1988-04-20 00:00:00',
@@ -309,7 +228,7 @@ export default {
     },
     {
       'id': 12,
-      'name': 'Elwyn Herzog',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'praesentium',
       'email': 'ckassulke@example.net',
       'birthdate': '1990-01-22 00:00:00',
@@ -336,7 +255,7 @@ export default {
     },
     {
       'id': 13,
-      'name': 'Selena Hettinger',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'et',
       'email': 'bashirian.hyman@example.net',
       'birthdate': '1981-10-01 00:00:00',
@@ -363,7 +282,7 @@ export default {
     },
     {
       'id': 14,
-      'name': 'Edwin Beier',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'eos',
       'email': 'janis71@example.org',
       'birthdate': '1978-10-13 00:00:00',
@@ -390,7 +309,7 @@ export default {
     },
     {
       'id': 15,
-      'name': 'Lexi Braun MD',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'autem',
       'email': 'dusty74@example.net',
       'birthdate': '1971-12-07 00:00:00',
@@ -417,7 +336,7 @@ export default {
     },
     {
       'id': 16,
-      'name': 'Jovany Spencer',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'fugit',
       'email': 'gbogisich@example.org',
       'birthdate': '1974-04-23 00:00:00',
@@ -444,7 +363,7 @@ export default {
     },
     {
       'id': 17,
-      'name': 'Prof. Maci Anderson DVM',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'dolorem',
       'email': 'btorp@example.com',
       'birthdate': '1988-03-30 00:00:00',
@@ -471,7 +390,7 @@ export default {
     },
     {
       'id': 18,
-      'name': 'Joel Kulas MD',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'sed',
       'email': 'phoebe.sauer@example.org',
       'birthdate': '1992-10-26 00:00:00',
@@ -498,7 +417,7 @@ export default {
     },
     {
       'id': 19,
-      'name': 'Mr. Dawson Greenholt',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'nostrum',
       'email': 'asawayn@example.org',
       'birthdate': '1963-08-23 00:00:00',
@@ -525,7 +444,7 @@ export default {
     },
     {
       'id': 20,
-      'name': 'Prof. Lloyd Green',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'velit',
       'email': 'laila.hintz@example.org',
       'birthdate': '1970-10-31 00:00:00',
@@ -552,7 +471,7 @@ export default {
     },
     {
       'id': 21,
-      'name': 'Shayna Morar',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'rerum',
       'email': 'wfay@example.org',
       'birthdate': '1991-01-24 00:00:00',
@@ -579,7 +498,7 @@ export default {
     },
     {
       'id': 22,
-      'name': 'Krista Schulist',
+      'name': 'SOLD 0.5 BTC @ 17,340',
       'nickname': 'qui',
       'email': 'gregoria.jakubowski@example.com',
       'birthdate': '1974-08-16 00:00:00',

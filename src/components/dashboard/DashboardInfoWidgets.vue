@@ -6,9 +6,9 @@
           <div class="stats">
             <div class="stats-number">
               <i class="ion ion-arrow-up-c text-primary stats-icon"></i>
-              59
+              59%
             </div>
-            <div class="stats-title">Elements</div>
+            <div class="stats-title">PROFIT</div>
           </div>
         </div>
       </vuestic-widget>
@@ -18,27 +18,27 @@
         <div class="info-widget-inner">
           <div class="stats">
             <div class="stats-number">
-              <i class="ion ion-arrow-down-c text-danger stats-icon"></i>
+              <i class="ion text-danger stats-icon"></i>
               12
             </div>
-            <div class="stats-title">Versions</div>
+            <div class="stats-title">Trades / Day</div>
           </div>
         </div>
       </vuestic-widget>
     </div>
     <div class="col-md-6 col-xl-3">
-      <vuestic-widget class="info-widget brand-danger">
+      <vuestic-widget class="info-widget brand-success">
         <div class="info-widget-inner">
           <div class="info-widget-inner has-chart">
             <div class="stats">
               <div class="stats-number">
-                425
+                $3,546
               </div>
-              <div class="stats-title">Commits</div>
+              <div class="stats-title">Ballance</div>
             </div>
             <div class="chart-container">
-              <progress-bar type="circle" ref="circleProgress" :colorName="'white'" :backgroundColorName="'danger'"
-                            :startColorName="'danger'"></progress-bar>
+              <progress-bar type="circle" ref="circleProgress" :colorName="'black'" :backgroundColorName="'white'"
+                            :startColorName="'black'"></progress-bar>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
               <i class="ion ion-android-people stats-icon icon-wide"></i>
               5
             </div>
-            <div class="stats-title">Team Members</div>
+            <div class="stats-title">Bots</div>
           </div>
         </div>
       </vuestic-widget>
@@ -101,6 +101,10 @@
       align-items: center;
       height: 100%;
     }
+  }
+
+  .brand-success {
+    background-color: #4ae387;
   }
 
   .stats-number {

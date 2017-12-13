@@ -1,9 +1,9 @@
 <template>
   <div class="vuestic-social-news">
     <div class="d-flex justify-content-between align-items-center text-w-btn">
-      <span class="text">That what users have posted about your business.</span>
+      <span class="text">These are your last 5 trades</span>
       <a :href="url" target="_blank">
-        <button class="btn btn-micro btn-primary">VIEW</button>
+        <button class="btn btn-micro btn-primary">VIEW ALL</button>
       </a>
     </div>
     <div class="d-flex flex-row justify-content-around photos">

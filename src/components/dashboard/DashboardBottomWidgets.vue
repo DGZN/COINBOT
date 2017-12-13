@@ -29,55 +29,23 @@
       return {
         posts: [
           {
-            name: 'Irina Myatelskaya',
-            text: 'joined the network',
-            photoURL: 'http://i.imgur.com/VuTDC8u.png'
+            name: 'BTC Bot 1',
+            text: 'has been trading for 12hrs',
+            photoURL: ''
           },
           {
-            name: 'Andrei Hrabouski',
-            text: 'has just started a live video',
-            photoURL: 'http://i.imgur.com/W3mGrmW.png'
+            name: 'BCH Bot 1',
+            text: 'has been trading for 16hrs',
+            photoURL: ''
           },
           {
-            name: 'Evan You',
-            text: 'joined the network',
-            photoURL: 'http://i.imgur.com/D7DOGBH.jpg'
+            name: 'LTC Bot 1',
+            text: 'has been trading for 22hrs',
+            photoURL: ''
           }
         ],
         news: [
-          {
-            photoURL: 'http://i.imgur.com/PiTDDcA.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/M6GugaM.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/vEy3fRU.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/Xrywphx.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/dqVtQGY.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/qP7rTCy.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/6YLsM43.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/9PAOx55.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/mVpc04D.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/WdbTSLn.png'
-          },
-          {
-            photoURL: 'http://i.imgur.com/ZXRIHfk.png'
-          }
+
         ]
       }
     }

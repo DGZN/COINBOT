@@ -9,20 +9,20 @@ export default {
   },
 
   children: [
-    {
-      name: 'Charts',
-      path: '/statistics/charts',
-      component: lazyLoading('statistics/charts/Charts'),
-      meta: {
-        title: 'Charts'
-      }
-    },
+    // {
+    //   name: 'Charts',
+    //   path: '/statistics/charts',
+    //   component: lazyLoading('statistics/charts/Charts'),
+    //   meta: {
+    //     title: 'Charts'
+    //   }
+    // },
     {
       name: 'ProgressBars',
       path: '/statistics/progress-bars',
       component: lazyLoading('statistics/progress-bars/ProgressBars'),
       meta: {
-        title: 'Progress Bars'
+        title: 'Active Bots'
       }
     }
   ]
